@@ -1,1 +1,3 @@
 .env
+/context/*
+bank_system/bank.db

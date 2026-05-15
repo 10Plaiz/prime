@@ -11,6 +11,8 @@ package com.mycompany.bank_system;
 public class Bank_system {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        java.awt.EventQueue.invokeLater(() -> {
+            new Login().setVisible(true);
+        });
     }
 }
