@@ -1,6 +1,6 @@
-# Prime Bank System
+# Bank System
 
-Prime is a Java-based banking system project built with Maven and Swing. It is designed as a simple ATM/banking prototype that supports customer accounts, transaction history, and beneficiary management.
+This Java-based banking system project built with Maven and Swing. It is designed as a simple ATM/banking prototype that supports customer accounts, transaction history, and beneficiary management.
 
 ## Features
 
